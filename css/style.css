@@ -1,0 +1,84 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+.love_btn {
+        cursor: pointer;
+        position: static;
+        max-width: 300px;
+        margin: 0 auto;
+        text-align: center;
+        background: #ff878a;
+        width: 100%;
+        font-size: 30px;
+        letter-spacing: .2em;
+        margin-bottom: 0px;
+        display: block;
+        box-shadow: 1px 3px 10px rgb(0 0 0 / 10%);
+        color: #fff !important;
+        line-height: 45px;
+        border-radius: 45px;
+        transition: all 0.5s ease 0s;
+}
+.human_btn {
+    cursor: pointer;
+    position: static;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background: yellowgreen;
+    width: 100%;
+    font-size: 30px;
+    letter-spacing: .2em;
+    margin-bottom: 0px;
+    display: block;
+    box-shadow: 1px 3px 10px rgb(0 0 0 / 10%);
+    color: blue;
+    line-height: 45px;
+    border-radius: 45px;
+    transition: all 0.5s ease 0s;
+}
+.mental_btn {
+    cursor: pointer;
+    position: static;
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    background:greenyellow;
+    width: 100%;
+    font-size: 30px;
+    letter-spacing: .2em;
+    margin-bottom: 0px;
+    display: block;
+    box-shadow: 1px 3px 10px rgb(0 0 0 / 10%);
+    color: purple;
+    line-height: 45px;
+    border-radius: 45px;
+    transition: all 0.5s ease 0s;
+}
+
+body {
+    background-color: rgb(28, 235, 235);
+}
+
+.kekka {
+    background-color: aquamarine;
+}
+.name {
+    text-align: center;
+    font-size: 30px;
+}
+.text {
+    text-align: center;
+    font-size: 20px;
+}
+.img {
+    text-align: center;
+    margin: auto;
+    border-radius: 15px;
+}
+
